@@ -1,0 +1,35 @@
+task_subtask_list
+Task,Sub-task
+POC,Understanding different agentic frameworks
+POC,Pros and cons of different frameworks and why Langraph
+POC,Understanding Langraph
+POC,Feasibility and licensing
+POC,Research alternative frameworks
+POC,Compare performance benchmarks
+Design document,Create high-level diagram
+Design document,Create low-level diagram
+Design document,Create class diagram
+Design document,Models to be used
+Design document,Define API contracts
+Design document,Document edge cases
+Langraph,Create a graph
+Langraph,Create nodes
+Langraph,Build agents
+Langraph,Build agentic tools
+Langraph,Optimize execution flow
+Langraph,Test error handling mechanisms
+Jira,API to create an epic
+Jira,API to assign issues to an epic
+Jira,Assign persons to the stories
+Jira,Automate status updates
+Jira,Generate reports
+Testing,Unit Testing (UT)
+Testing,Functional Verification Testing (FVT)
+Testing,Integration Verification Testing (IVT)
+Testing,Performance Testing
+Testing,Security Testing
+Automation,Integrate with Slack
+Automation,Slack notification
+Automation,Create a new sprint after each sprint
+Automation,Automate deployment pipeline
+Automation,Schedule automated reports

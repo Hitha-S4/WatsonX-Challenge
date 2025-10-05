@@ -1,0 +1,5 @@
+team_data_normalized
+name,Email id,Skills,Employee id,Leave plan
+Darshan M,dmjdarshanwork@gmail.com,"[Python,Beginner], [Langchain, Intermediate], [Jira, Expert]",EMP001,"[Vacation, 2025-02-17],[Vacation, 2025-02-18],[Vacation,2025-02-19]"
+Hitha S,hithasrinivas4@gmail.com,"[Java, Expert], [Langraph, Intermediate], [Testing, Expert]",EMP002,"[Vacation, 2025-07-15]"
+Ashwathy S Kumar,ashwathyashwathy761@gmail.com,"[Go, Intermediate], [Slack Integration, Expert], [Automation, Expert]",EMP003,"[Parental Leave, 2025-02-20]"
