@@ -36,12 +36,12 @@ To-be process (with Agentic AI)
 •	Team members receive tasks tailored to their strengths and workload, with clear sprint objectives and timelines.
 
 ## Business value statement
-•	Persona A – Project Manager	•	Gains significant time savings by automating repetitive project planning tasks.
+###	Persona A – Project Manager	•	Gains significant time savings by automating repetitive project planning tasks.
 •	Improves resource utilization and team productivity through optimized task allocation.
 •	Reduces errors and inefficiencies in sprint planning, resulting in smoother project execution.
 •	Enables better focus on strategic decision-making and higher-level planning.
-•	
-•	Persona B – Team Member	
+
+###	Persona B – Team Member	
 •	Experiences fair and efficient task allocation that aligns with their skills and expertise.
 •	Avoids burnout with balanced workload distribution.
 •	Gains clarity on sprint goals, making it easier to track progress and achieve outcomes.
