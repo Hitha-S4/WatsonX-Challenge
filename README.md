@@ -17,10 +17,15 @@ Our idea leverages AI agents to streamline project planning and task allocation.
 
 As-is process (without Agentic AI)	
 •	Project planning is manual and time-consuming, requiring the Project Manager to analyze project requirements and divide them into EPICs and stories.
+
 •	EPICs and stories are created manually in Jira, with descriptions and details often incomplete or inconsistent.
+
 •	Task allocation is done manually based on limited knowledge of team members' workloads.
+
 •	Sprint planning is prone to errors, with uneven distribution of work across sprints and unclear sprint objectives.
+
 •	Revisiting task estimates or reassigning tasks during the project lifecycle is cumbersome and leads to delays.
+
 •	Team members face inefficiencies due to misaligned tasks, uneven workloads, and a lack of clarity on sprint goals.
 
 
@@ -29,21 +34,33 @@ As-is process (without Agentic AI)
 ## Solution Section
 To-be process (with Agentic AI)
 •	AI agents automatically analyze project requirements, breaking them into EPICs and stories.
+
 •	EPICs and stories are created directly in Jira by the agents, with comprehensive descriptions and metadata added automatically.
+
 •	AI agents allocate tasks to team members by assessing their skills, expertise, and availability, ensuring balanced workloads.
+
 •	Sprint planning is automated, with AI agents defining sprint goals, calculating sprint durations, and distributing stories evenly across sprints.
+
 •	Dynamic recalibration is enabled, allowing the system to revisit task estimates and assignments based on real-time updates.
+
 •	Team members receive tasks tailored to their strengths and workload, with clear sprint objectives and timelines.
 
 ## Business value statement
 ###	Persona A – Project Manager	•	Gains significant time savings by automating repetitive project planning tasks.
+
 •	Improves resource utilization and team productivity through optimized task allocation.
+
 •	Reduces errors and inefficiencies in sprint planning, resulting in smoother project execution.
+
 •	Enables better focus on strategic decision-making and higher-level planning.
+
 
 ###	Persona B – Team Member	
 •	Experiences fair and efficient task allocation that aligns with their skills and expertise.
-•	Avoids burnout with balanced workload distribution.
+
+•	Avoids burnout with balanced workload distribution./
+
 •	Gains clarity on sprint goals, making it easier to track progress and achieve outcomes.
+
 •	Feels more engaged and valued, contributing to overall team morale and productivity.
 
